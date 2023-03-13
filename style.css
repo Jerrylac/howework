@@ -4,8 +4,9 @@
     width: 60%;
     height: 10%;
 }
-h2,h1{
+h2,h1,p{
     text-align: center;
+    
 }
 #new{
     display: block;
@@ -16,4 +17,8 @@ h2,h1{
 .work{
     width: 200px;
     height: 200px;
+}
+.menu{
+    list-style: none;
+    font-size: 20px;
 }
